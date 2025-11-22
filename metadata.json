@@ -1,0 +1,5 @@
+{
+  "name": "Adobe Stock Metadata Generator",
+  "description": "A batch processing tool powered by Gemini 2.5 Flash that converts lists of image descriptions and filenames into an Adobe Stock compatible CSV with optimized titles, keywords, and categories.",
+  "requestFramePermissions": []
+}
